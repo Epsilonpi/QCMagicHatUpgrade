@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=QCMagicHAT
+Comment=QCMagicHAT software
+Icon=/home/pi/PycharmProjects/EPiQ_2f_2.1.1/config/EpsilonPiSmall.png
+Exec=/home/pi/PycharmProjects/bashEPiQ
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;
+StartupNotify=true
